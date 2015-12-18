@@ -1,15 +1,14 @@
-Android Weight Demo  
+Android Weight 样例    
+ 
+match_parent和wrap_content权值下区别    
 
-differents between match_parent and wrap_content  
+由于GFW,应该配置clone后的此文件："gradle-wrapper.properties" 目录为工程下：gradle/wrapper中    
 
-note:because of the GFW,you need to config "gradle-wrapper.properties" in gradle/wrapper  
-
-use this url:  
+用下面这个Url:  
 
 distributionUrl=file:///C:/Users/Administrator/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8-all.zip  
 
-This is the best way to init building a Android project  
+可以先下载好gradle-all压缩包，然后复制全路径加文件名，复制到浏览器，浏览器自动会解析出上述Url，无需再处理各种转义字符  
 
-TEST:My computer`s clone
-
-<img src="https://github.com/somewhater/AndroidWeightDemo/blob/master/picture/layout.png"/>
+截图实例：  
+<img src="https://github.com/somewhater/AndroidWeightDemo/blob/master/picture/layout.png"/>   
