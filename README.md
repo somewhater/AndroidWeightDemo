@@ -8,6 +8,5 @@ distributionUrl=file:///D:/gradletools/gradle-2.2.1-all.zip
 将本地目录+包名，拷贝到浏览器地址栏中，例如我的本地地址为：   
 D:\gradletools\gradle-2.2.1-all.zip   
 按下回车，浏览器即可自动转义成对应地址，无需处理其他转义字符    
-
 #截图示例：  
 ![示例](https://github.com/somewhater/AndroidWeightDemo/blob/master/picture/layout-2015-12-18-143012.png) 
