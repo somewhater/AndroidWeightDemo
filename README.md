@@ -11,4 +11,4 @@ distributionUrl=file:///C:/Users/Administrator/.gradle/wrapper/dists/gradle-2.8-
 可以先下载好gradle-all压缩包，然后复制全路径加文件名，复制到浏览器，浏览器自动会解析出上述Url，无需再处理各种转义字符  
 
 截图实例：  
-<img src="https://github.com/somewhater/AndroidWeightDemo/blob/master/picture/layout-2015-12-18-143012.png"/>   
+![示例](https://github.com/somewhater/AndroidWeightDemo/blob/master/picture/layout-2015-12-18-143012.png) 
