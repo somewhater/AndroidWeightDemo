@@ -5,7 +5,7 @@ match_parent和wrap_content权值下区别
 用下面这个Url:  
 distributionUrl=file:///D:/gradletools/gradle-2.2.1-all.zip 
 #原理： 
-讲本地目录+包名，拷贝到浏览器地址栏中，例如我的本地地址为：   
+将本地目录+包名，拷贝到浏览器地址栏中，例如我的本地地址为：   
 D:\gradletools\gradle-2.2.1-all.zip   
 按下回车，浏览器即可自动转义成对应地址，无需处理其他转义字符    
 
