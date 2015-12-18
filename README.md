@@ -12,4 +12,4 @@ This is the best way to init building a Android project
 
 TEST:My computer`s clone
 
-<img src="/picture/laout.png"/>
+<img src="https://github.com/somewhater/AndroidWeightDemo/blob/master/picture/layout.png"/>
