@@ -11,3 +11,5 @@ distributionUrl=file:///C:/Users/Administrator/.gradle/wrapper/dists/gradle-2.8-
 This is the best way to init building a Android project  
 
 TEST:My computer`s clone
+
+<img src="/picture/laout.png"/>
